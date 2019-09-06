@@ -1,0 +1,4 @@
+*.pyc
+*.json~
+*.csv~
+.DS_Store
