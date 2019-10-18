@@ -1,4 +1,4 @@
-# oos-eval
+# An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction
 Repository that accompanies [An Evaluation Dataset for Intent Classificationand Out-of-Scope Prediction](https://arxiv.org/abs/1909.02027) (to appear in EMNLP 2019)
 
 
