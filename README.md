@@ -3,10 +3,14 @@ Repository that accompanies [An Evaluation Dataset for Intent Classificationand 
 
 
 ## FAQs
-1. What language is the dataset in?
-- All queries are in English.
+### 1. What language is the dataset in?
+All queries are in English.
 
-2. 
+### 2. How does your dataset/evaluation handle multi-intent queries?
+All samples/queries in our dataset are single-intent samples. We consider the problem of multi-intent classification to be future work.
+
+### 3. How did you gather the dataset?
+We used crowdsourcing to generate the dataset. We asked crowd workers to either paraphrase "seed" phrases, or respond to scenarios (e.g. "pretend you need to book a flight, what would you say?"). We used crowdsourcing to generate data for both in-scope and out-of-scope data.
 
 ## Citing
 
