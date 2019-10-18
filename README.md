@@ -1,6 +1,15 @@
 # oos-eval
 Repository that accompanies [An Evaluation Dataset for Intent Classificationand Out-of-Scope Prediction](https://arxiv.org/abs/1909.02027) (to appear in EMNLP 2019)
 
+
+## FAQs
+1. What language is the dataset in?
+- All queries are in English.
+
+2. 
+
+## Citing
+
 If you find our dataset useful, please be sure to cite:
 
 ```
