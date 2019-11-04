@@ -4,7 +4,7 @@ Repository that accompanies [An Evaluation Dataset for Intent Classification and
 
 ## FAQs
 ### 1. What is this dataset for?
-This dataset is for evaluating the performance of intent classification systems in the presence of ``out-of-scope" queries. By ``out-of-scope", we mean queries that do not fall into any of the system-supported intent classes. Most datasets include only data that is ``in-scope". Our dataset includes both in-scope and out-of-scope data.
+This dataset is for evaluating the performance of intent classification systems in the presence of "out-of-scope" queries. By "out-of-scope", we mean queries that do not fall into any of the system-supported intent classes. Most datasets include only data that is "in-scope". Our dataset includes both in-scope and out-of-scope data.
 
 ### 2. What language is the dataset in?
 All queries are in English.
