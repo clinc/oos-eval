@@ -1,3 +1,5 @@
+[![Clinc](clinc_logo.png)(https://clinc.com)
+
 # An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction
 Repository that accompanies [An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction](https://www.aclweb.org/anthology/D19-1131/).
 
